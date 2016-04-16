@@ -8,7 +8,7 @@ Pin D2 has an interrupt feature making it perfect for rotary encoders and pushbu
 
 A total of 8 precision K-type thermocouple inputs; wow.
 
-Toastduino can make fore some really nice kitchen equipment! Let's go cullinary engineers.
+Toastduino can make for some really nice kitchen equipment! Let's go cullinary engineers.
 
 Visit www.toastduino.wordpress.com
 
