@@ -1,7 +1,3 @@
-Version 1.1 is tested, working, beautiful. 
-
-Please contribute to the project by sharing your code. 
-
 Toastduino has I/O pins for connecting LCD screens, rotary encoders, toggle switches, pushbuttons, and analog inputs.
 
 Pin D2 has an interrupt feature making it perfect for rotary encoders and pushbuttons. 
